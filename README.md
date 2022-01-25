@@ -1,3 +1,5 @@
+[![Views][views-shield]](views-url)
+
 - 👋 Hi, I’m @ProKocak28
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to program something
