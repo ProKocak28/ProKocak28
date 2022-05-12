@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @ProKocak28
+# - 👋 Hi, I’m @ProKocak28
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning to program something
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning to program something (like a website, discord bot and others.)
+
+## I have a team called Biasa Adja
+
+![Biasa Adja Textures](https://biasaadjatextures.cf/images/biasaaja_pfp.png "Biasa Adja Textures")
 
 <!---
 ProKocak28/ProKocak28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
