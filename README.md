@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @ProKocak28
+# 👋 Hi, I’m @ProKocak28
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to program something (like a website, discord bot and others.)
 
