@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ProKocak28
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning to program something (like a website, discord bot and others.)
+- 🌱 I’m currently learning to program something (like a website, etc.)
 
 ## I have a team called Biasa Adja
 
